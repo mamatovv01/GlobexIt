@@ -1,0 +1,87 @@
+body{
+    background:linear-gradient( 90deg, #0f0c29, #302b63,#24243e);
+    color: white;
+}
+
+.content{
+    margin: 100px auto ;
+    width: 1301px;
+    height: 100%;    
+    margin-left: 200px;
+
+}
+
+
+td{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+
+
+.red{
+    background: white;
+}
+
+.blue{
+    background: red;
+}
+
+.green{
+    background: red;
+}
+
+.yellow{
+     background: red;
+}
+
+form{
+    margin-top: 10px;
+}
+
+.num{
+    width: 50px;
+    background: rgba(6, 96, 131, 0.25);
+    border-radius: 50px;
+    color: white;
+    margin: 10px 0px;
+    padding: 5px 25px;
+}
+
+
+input {
+background: none;
+border: none;
+outline: none;
+}
+
+.btn{
+background: rgb(20, 3, 255);
+border-radius: 50px;
+padding: 5px 35px;
+color: white;
+font-weight: bolder;
+
+}
+
+.btn:hover{
+background: turquoise;
+color: black;
+}
+
+.col1{
+color: red;
+}
+
+.col2{
+color: blue;
+
+}
+
+.col3{
+color: green;
+}
+
+.col4{
+color: yellow;
+}
